@@ -1,0 +1,5 @@
+cp ./.bash_profile ~/
+cp ./.gitconfig ~/
+cp ./.vimrc ~/
+cp ./JC.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+
